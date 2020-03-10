@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CommunityThemeDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultBrandingSet>Super_Awesome_Community</defaultBrandingSet>
+    <enableExtendedCleanUpOnDelete>true</enableExtendedCleanUpOnDelete>
+    <masterLabel>Super_Awesome_Community</masterLabel>
+    <publisher>EMEA TE&#39;s</publisher>
+    <themeSetting>
+        <themeLayout>Super_Awesome_Community_themeLayout_Login</themeLayout>
+        <themeLayoutType>Login</themeLayoutType>
+    </themeSetting>
+    <themeSetting>
+        <themeLayout>Super_Awesome_Community_themeLayout_Default</themeLayout>
+        <themeLayoutType>Inner</themeLayoutType>
+    </themeSetting>
+</CommunityThemeDefinition>

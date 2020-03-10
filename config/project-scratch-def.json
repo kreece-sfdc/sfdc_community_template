@@ -1,0 +1,10 @@
+{
+  "orgName": "Super Awesome Template Company",
+  "edition": "Developer",
+  "features": [ "Communities" ],
+  "settings": {
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    }
+  }
+}
