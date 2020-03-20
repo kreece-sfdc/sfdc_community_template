@@ -1,7 +1,7 @@
 {
     "packageDirectories": [
         {
-            "path": "force-app",
+            "path": "packaging",
             "default": true,
             "package": "Awesomeness++ Community Template",
             "versionName": "ver 0.1",
@@ -12,6 +12,9 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "47.0",
     "packageAliases": {
-        "Awesomeness++ Community Template": "0Ho0N0000004CAaSAM"
+        "Awesomeness++ Community Template": "0Ho0N0000004CAaSAM",
+        "Awesomeness++ Community Template@0.1.0-2": "04t0N00000177BkQAI",
+        "Awesomeness++ Community Template@0.1.0-3": "04t0N00000177BpQAI",
+        "Awesomeness++ Community Template@0.1.0-4": "04t0N00000177BuQAI"
     }
 }
