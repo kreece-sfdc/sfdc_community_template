@@ -1,11 +1,15 @@
 {
     "packageDirectories": [
         {
-            "path": "packaging",
+            "path": "force-app/packaged",
             "default": true,
             "package": "Awesomeness++ Community Template",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "force-app/unpackaged",
+            "default": false
         }
     ],
     "namespace": "",
@@ -15,6 +19,7 @@
         "Awesomeness++ Community Template": "0Ho0N0000004CAaSAM",
         "Awesomeness++ Community Template@0.1.0-2": "04t0N00000177BkQAI",
         "Awesomeness++ Community Template@0.1.0-3": "04t0N00000177BpQAI",
-        "Awesomeness++ Community Template@0.1.0-4": "04t0N00000177BuQAI"
+        "Awesomeness++ Community Template@0.1.0-4": "04t0N00000177BuQAI",
+        "Awesomeness++ Community Template@0.1.0-5": "04t0N00000177DMQAY"
     }
 }
